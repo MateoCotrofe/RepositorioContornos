@@ -3,5 +3,6 @@ public class Calculadora {
         System.out.println("Suma: " + Suma.operar(10, 5));
         System.out.println("Resta: " + Resta.operar(10, 5));
         System.out.println("Multi: " + Multiplicacion.operar(10, 5));
+        System.out.println("División: " + Division.operar(10, 0));
     }
 }
